@@ -1,11 +1,6 @@
-# Algorithms and Data Structures in C
+![Algorithms_Data_Structures](https://user-images.githubusercontent.com/38081852/67428127-f16e4e80-f5b3-11e9-87db-a420da8e799f.png)
 
 ### This is an open source repository for algorithms, data structures, and C language studies.
-
-![data-structure](https://user-images.githubusercontent.com/38081852/65379654-d7cea400-dca1-11e9-8352-b7b3369a583e.png)
-![data-structures](https://user-images.githubusercontent.com/38081852/65379655-d8673a80-dca1-11e9-9ee4-6127c81e0885.png)
-![tree](https://user-images.githubusercontent.com/38081852/65379656-d8673a80-dca1-11e9-874f-718c0641780d.png)
-
 
 ### To see how structures and algorithms work more visually, see the website [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html).
 
