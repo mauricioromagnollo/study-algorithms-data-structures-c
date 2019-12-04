@@ -1,0 +1,5 @@
+#ifndef TIME_CALC_H_INCLUDED
+#define TIME_CALC_H_INCLUDED
+
+
+#endif // TIME_CALC_H_INCLUDED
