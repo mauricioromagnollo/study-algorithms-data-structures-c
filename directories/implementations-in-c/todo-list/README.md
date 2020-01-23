@@ -1,3 +1,3 @@
 # Todo List
 
-[README - PT-BR](./doc/README.pt-BR.md)
+> Para ler o README em Português [Clique Aqui](./doc/README.pt-BR.md).

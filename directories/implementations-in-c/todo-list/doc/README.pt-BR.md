@@ -75,7 +75,7 @@ A prioridade das tarefas também pode ser representada por números. Assim como 
 
 ## **Detalhes Técnicos**
 
-Seu sistema será testado em ambiente **Linx**, com linguagem de terminal **Bash**. A compilação deve ser através de um **[Makefile](​https://www.cs.swarthmore.edu/~newhall/unixhelp/howto_makefiles.html)**.
+Seu sistema será testado em ambiente **Linx**, com linguagem de terminal **Bash**. A compilação deve ser através de um [Makefile](​https://www.cs.swarthmore.edu/~newhall/unixhelp/howto_makefiles.html).
 
 A compilação deverá ser feita utiliando o make:
 
