@@ -75,7 +75,7 @@ A prioridade das tarefas também pode ser representada por números. Assim como 
 
 ## **Detalhes Técnicos**
 
-Seu sistema será testado em ambiente **Linx**, com linguagem de terminal **Bash**. A compilação deve ser através de um [Makefile](​https://www.cs.swarthmore.edu/~newhall/unixhelp/howto_makefiles.html).
+Seu sistema será testado em ambiente **Linx**, com linguagem de terminal **Bash**. A compilação deve ser através de um [Makefile][1].
 
 A compilação deverá ser feita utiliando o make:
 
@@ -89,12 +89,11 @@ Em seguida, o seu sistema deve ser iniciado com o seguinte comando:
 $ ./todolist
 ```
 
-
-
-
 ## **Referência**
 
 **Universidade Federal de Ouro Preto - UFOP**<br>
 **Disciplina de Programação de Computadores I - CSI030**<br>
 **Trabalho Prático: Gerenciamento de Listas de Tarefas**<br>
 **Professor: Vinicius Dias**
+
+[1]: ​https://www.cs.swarthmore.edu/~newhall/unixhelp/howto_makefiles.html
