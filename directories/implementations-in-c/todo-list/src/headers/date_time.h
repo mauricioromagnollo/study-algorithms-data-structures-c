@@ -1,21 +1,7 @@
 #ifndef DATE_TIME_H_INCLUDED
 #define DATE_TIME_H_INCLUDED
 
-typedef unsigned int date_digit_type_t, time_digit_type_t;
-
-/* Tipo Data */
-typedef struct {
-  date_digit_type_t day;
-  date_digit_type_t month;
-  date_digit_type_t year;
-} date_t;
-
-/* Tipo Hora */
-typedef struct {
-  time_digit_type_t hours;
-  time_digit_type_t minutes;
-  time_digit_type_t seconds;
-} time_type_t;
+#include "__types_global.h"
 
 /**
  * Retorna a estrutura 'date_t' contendo a data atual.
@@ -43,7 +29,7 @@ time_type_t getCurrentTime();
  * Retorna a estrutura 'time_type_t' com os parâmetros definidos,
  * (horas, minutos, segundos)
  */
-time_type_t newTime(time_digit_t, time_digit_t, time_digit_t);
+time_type_t newTime(time_digit_type_t, time_digit_type_t, time_digit_type_t);
 
 /**
  * Imprime a Hora atual.

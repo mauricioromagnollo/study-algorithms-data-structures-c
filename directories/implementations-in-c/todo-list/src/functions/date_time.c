@@ -31,7 +31,7 @@ time_type_t getCurrentTime() {
   };
 }
 
-time_type_t newTime(time_digit_t hours, time_digit_t minutes, time_digit_t seconds) {
+time_type_t newTime(time_digit_type_t hours, time_digit_type_t minutes, time_digit_type_t seconds) {
   return (time_type_t){ hours, minutes, seconds };
 }
 

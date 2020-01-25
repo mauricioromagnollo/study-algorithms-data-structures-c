@@ -1,7 +1,7 @@
 #ifndef LIST_TYPES_H_INCLUDED
 #define LIST_TYPES_H_INCLUDED
 
-#include "global_types.h"
+#include "__types_global.h"
 
 typedef char description_t[30];
 typedef char name_t[15];
