@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1540264064 source:d:\shared\projeto_agenda\main.c
+	"agenda.h"
+
+1540179381 d:\shared\projeto_agenda\auxlib.h
+	<unistd.h>
+	<windows.h>
+
+1540263530 d:\shared\projeto_agenda\agenda.h
+	<unistd.h>
+	<windows.h>
+
+1540192482 source:d:\shared\projeto_agenda\auxlib.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"auxlib.h"
+
+1540264210 source:d:\shared\projeto_agenda\agenda.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"agenda.h"
+
